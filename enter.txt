@@ -1,0 +1,10 @@
+git
+init- is used only once for initialization
+
+add-it will save the file and if any further changes are made then also it will save change and save it with same file name but with different version name
+
+commit - your commiting the changes that you have made
+
+remote - it is used to link or make a connection between the local drive file to the server(online) and here we are providing the location where it need to get uploaded
+
+push- to upload the file to server 
