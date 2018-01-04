@@ -2,3 +2,4 @@ create table emp(id int,name varchar(100));
 insert into emp values(10,'srujana');
 select * from emp;
 insert into emp values(20,'chaithu'),(30,'vasantha');
+select * from emp where id=20;
